@@ -1,0 +1,15 @@
+.sticky-header .is-sticky #Header {
+	background: #fff;
+}
+
+.mfn-color-1, .mfn-color-2, .mfn-color-3, .mfn-color-4 {
+	background: #474747;
+}
+
+.feature_box .photo .desc .desc_i {
+	border-top: 5px solid #656565;
+}
+
+.feature_box .photo .desc {
+	border-right: 40px solid #3A3636;
+}
